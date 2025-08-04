@@ -27,7 +27,12 @@ list_of_files = [
     'setup.config',
     'pyproject.toml',
     'tox.ini',
-    'experiements/experiment1.ipynb'
+    'experiements/experiment1.ipynb',
+    'setup.cfg',
+    'setup.py',
+    'pyproject.toml',
+    'toxi.ini',
+    'init_setup.sh'
 
 ]
 for filepath in list_of_files:
